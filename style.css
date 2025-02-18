@@ -1,0 +1,24 @@
+.main{
+    background-color:#02773B;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* justify-content: center; */
+    align-items: center;
+    padding: 8px;
+
+}
+.container1{
+    display: flex;
+    gap: 20px;
+}
+
+.container2{
+    display: flex;
+    gap: 20px;
+}
+
+.container1, .container2, a {
+    color: white;
+    text-decoration: none;
+}
